@@ -1,0 +1,66 @@
+
+
+body{
+    
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:500 ;
+    font-style: normal;
+    text-emphasis-color: white;
+    color: #F5F5F5;
+    
+   background-image: url("https://images.unsplash.com/photo-1722455713359-f3653dbd5e62?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+
+}
+
+img{
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.middle,h4,h1{
+    text-align: center;
+}
+.dum{
+    color: rgba(9, 41, 120, 0.679);
+}
+.skilz{
+   
+    width: 200px;
+    border-radius: 7px;
+    margin-left: 10px;
+
+    
+}
+.skills{
+    display: inline-block;
+   
+
+
+}
+.me{
+    text-decoration: none;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.landskap{
+    display: inline-block;
+    
+}
+img{
+    width: 200px;
+}
+.line{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 10px auto;
+}
+button{
+    font-family: inherit;
+    padding: 10px;
+    border-radius: none;
+    border-radius: 10px;
+    background-color: rgb(145, 145, 161);
+    margin-bottom: 40px;
+}
